@@ -1,0 +1,29 @@
+site_name: Joseka Corp
+site_url: ""
+docs_dir: 'md'
+site_dir: 'docs'
+repo_url: https://github.com/josecarlosgarciahajek/superweb/
+repo_name: josecarlosgarciahajek/superweb/
+
+theme:
+  icon:
+    logo: material/email
+  favicon: images/JK_911.png
+  logo: images/JK_911.png
+  language: es
+  name: material
+  
+
+nav:
+  - Inicio: index.md
+  - JSON: json.md
+  - Python: python.md
+  - SQL: sql.md
+
+extra:
+  generator: false
+  social:
+    - icon: material/email
+      link: mailto:<ghjosecarlos@hotmail.com>
+
+copyright: Copyright &copy 2022-2022 Joseka
